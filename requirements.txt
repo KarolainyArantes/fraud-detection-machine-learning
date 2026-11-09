@@ -1,0 +1,15 @@
+# Data manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter environment
+jupyter
+ipykernel
